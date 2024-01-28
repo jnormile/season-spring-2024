@@ -1,1 +1,1 @@
-var l="lox";var z="";for (var a=0;a<6;a=a+1){z=z+l;print z;}print l+l+l+l+l;print l+l+l+l;print l+l+l;print l+l;print l;
+var l="lox";fun a(m){var z="";for (var i=0;i<m;i=i+1){z=z+l;}print z;}a(1);a(2);a(3);a(4);a(5);a(6);a(5);a(4);a(3);a(2);a(1);
