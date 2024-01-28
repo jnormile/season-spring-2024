@@ -2,7 +2,7 @@ var l = "lox";
 
 
 print l;
-print "loxlox";
+print l + l;
 print "loxloxlox";
 print "loxloxloxlox";
 print "loxloxloxloxlox";
