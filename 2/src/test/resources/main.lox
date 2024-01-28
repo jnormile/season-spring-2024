@@ -1,11 +1,1 @@
-var l = "lox";print l;
-print l + l;
-print "loxloxlox";
-print "loxloxloxlox";
-print "loxloxloxloxlox";
-print "loxloxloxloxloxlox";
-print "loxloxloxloxlox";
-print "loxloxloxlox";
-print "loxloxlox";
-print l + l;
-print l;
+var l="lox";print l;print l+l;print l+l+l;print l+l+l+l;print l+l+l+l+l;print l+l+l+l+l+l;print l+l+l+l+l;print l+l+l+l;print l+l+l;print l+l;print l;
