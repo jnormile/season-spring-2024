@@ -1,4 +1,7 @@
 var l="lox";
 for (var a=0;a<6;a=a+1;){print l;l=l+l;}
-l=l-l;
-for (var a=0;a<6;a=a+1;){l=l-l;print l;}
+print "loxloxloxloxlox";
+print "loxloxloxlox";
+print "loxloxlox";
+print "loxlox";
+print "lox";
