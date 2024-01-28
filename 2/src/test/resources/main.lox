@@ -1,4 +1,4 @@
-l = lox;
+var l = lox;
 print l;
 print "loxlox";
 print "loxloxlox";
