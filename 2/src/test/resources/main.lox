@@ -1,7 +1,7 @@
+var l = "lox";
 
 
-
-print "lox";
+print l;
 print "loxlox";
 print "loxloxlox";
 print "loxloxloxlox";
@@ -11,4 +11,4 @@ print "loxloxloxloxlox";
 print "loxloxloxlox";
 print "loxloxlox";
 print "loxlox";
-print "lox";
+print l;
