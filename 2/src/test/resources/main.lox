@@ -1,1 +1,12 @@
-l = lox; print l; print l+l; print l+l+l; print l+l+l+l; print l+l+l+l+l; print l+l+l+l+l+l; print l+l+l+l+l; print l+l+l+l; print l+l+l; print l+l; print l;
+l = lox;
+print l;
+print "loxlox";
+print "loxloxlox";
+print "loxloxloxlox";
+print "loxloxloxloxlox";
+print "loxloxloxloxloxlox";
+print "loxloxloxloxlox";
+print "loxloxloxlox";
+print "loxloxlox";
+print "loxlox";
+print l;
