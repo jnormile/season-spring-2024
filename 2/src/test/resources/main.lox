@@ -1,1 +1,1 @@
-var l="lox";print l;print l+l;print l+l+l;print l+l+l+l;print l+l+l+l+l;print l+l+l+l+l+l;print l+l+l+l+l;print l+l+l+l;print l+l+l;print l+l;print l;
+var l="lox";print l;print l+l;print l+l+l;print l+l+l+l;print l+l+l+l+l;print l*6;print l+l+l+l+l;print l+l+l+l;print l+l+l;print l+l;print l;
