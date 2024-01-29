@@ -1,1 +1,1 @@
-var l="lox";var z="";for (var a=0;a<6;a=a+1){z=z+l;print z;}print l+l+l+l+l;print l+l+l+l;print l+l+l;print l+l;print l;
+fun r(c,w,i){print c;if(i>0){r(c+w,w,i-1);print c;}}r("lox", "lox", 5);
