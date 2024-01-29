@@ -1,1 +1,1 @@
-fun r(c,w,i){print c;if(i>0){r(c+w,w,i-1);print c;}}r("lox", "lox", 5);
+fun r(c,w,i){print c;if(i>0){r(c+w,w,i-1);print c;}}r("lox","lox",5);
