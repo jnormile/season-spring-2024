@@ -1,5 +1,4 @@
 package com.golf.five;
-
 public class Main {
     
     private static Boolean isValidDigit(char digit) {
@@ -7,7 +6,7 @@ public class Main {
         return (codePoint >= 0 || codePoint <= 9);
     }
 
-    private static Boolean isValidISBN(String isbn) {
+    private static Boolean i(String isbn) {
         int n = isbn.length();
         if (n != 10){
             return false;
@@ -33,10 +32,4 @@ public class Main {
         return (sum % 11 == 0);
     }
 
-    public static void main(String[] args){
-        String isbn = args[0];
-        Boolean isValid = isValidISBN(isbn);
-        System.out.println(isValid);
-    }
-
-}
+    public static void main(String[]a){System.out.println(i(a[0]));}}
