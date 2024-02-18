@@ -1,1 +1,1 @@
-package com.golf.five;class Main{static Boolean i(String b){if(b.length()!=10)return false;int s=0;for(int i=0;i<9;i++){int d=b.charAt(i)-48;if(d<0||d>9)return false;s+=(10-i)*d;}char r=b.charAt(9);int g=(r=='X')?10:(r-48);return(s+g)%11==0;}static void main(String[]a){System.out.println(i(a[0]));}}
+package com.golf.five;class Main{static Boolean i(String b){int s=0;for(int i=0;i<9;i++){int d=b.charAt(i)-48;s+=(10-i)*d;}char r=b.charAt(9);int g=(r=='X')?10:(r-48);return(s+g)%11==0;}static void main(String[]a){System.out.println(i(a[0]));}}
