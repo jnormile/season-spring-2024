@@ -1,1 +1,6 @@
-'TODO: Write the program!
+c = 10
+t: if c = 0 then e
+print "**********"
+c = c - 1
+goto t
+e:
